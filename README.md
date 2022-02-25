@@ -1,1 +1,1 @@
-# Quiz App
+# App Template
